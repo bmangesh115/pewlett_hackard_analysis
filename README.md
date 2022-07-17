@@ -22,7 +22,7 @@ The link to the queries to create data tables with primary and foreign keys.<br>
 
 <figure>
     <figcaption>ERD showing link between data tables</figcaption>
-    <img src="/Images/EmployeeDB.png" width=826 height=auto
+    <img src="/Images/EmployeeDB.png.png" width=826 height=auto
          alt="ERD showing link between data tables">
 </figure> <br>
 
