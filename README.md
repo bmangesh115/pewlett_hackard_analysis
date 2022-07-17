@@ -22,7 +22,7 @@ The link to the queries to create data tables with primary and foreign keys.<br>
 
 <figure>
     <figcaption>ERD showing link between data tables</figcaption>
-    <img src="/Images/EmpployeeDB.png" width=826 height=auto
+    <img src="/Images/EmployeeDB.png" width=826 height=auto
          alt="ERD showing link between data tables">
 </figure> <br>
 
@@ -72,7 +72,7 @@ The link to the queries to analyze not retiring employees by title<br>
 
 <figure>
     <figcaption>Table not retiring titles</figcaption>
-    <img src="/Images/not_retiring_titles" width=592 height=auto
+    <img src="/Images/not_retiring_titles.png" width=592 height=auto
          alt="Table not retiring titles">
 </figure> <br>
 
